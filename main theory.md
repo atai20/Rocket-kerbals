@@ -1,23 +1,29 @@
-# Name of da Game
-* [Why I will do it](wiwdi.md) 
-* [Whole story](whole_story.md) 
-    * [History (Lore)]() 
-        * [World]()
-        * [Characters]()
-        
-    * [Scene (Plot)]() 
-        * [Person (AI)]() 
-            * [Neurons]() 
-            * [How he will act?]() 
-                * [What he should do according to plot]() 
-                
-                * [What he wants]() 
-                    * [Emotions]() 
-                    * [Desires]() 
-                    
-        * [Robot (Gamer)]()
-            * [How he will interact with:]()
-                * [World (surrounding objects and himself)]()
-                * [People]()
-            * [What gamer wants]()
-                * [What robot wants]()
+# Legendrary Kerbals rocket
+* #### 1. Actual rocket for the competition
+    * [Theory, aim and prises]()
+    * [dates, deadlines and achievements log]()
+    * #### requirements
+        * [rules]()
+        * [documents]()
+        * [organization part for Abby]()
+    * #### resources needed
+        * [parts and costs]()
+    * #### commentaries and thoughts
+        * [personal comments on project, ideas and stuff (everyone adds here anything)]()
+        * [future plans decided by group]()
+* #### 2. Personal war machine
+    * [What is the main aim?]() 
+    * [Who can help?]()
+    * [Drawn concept]() 
+    * [How not to explode?]() 
+    * #### kinds of fuel
+        * [methane]()
+        * [carbon dioxyde]()
+        * [hydrogen]()
+    * #### Commentaries and thoughts
+        * [personal comments on project, ideas and stuff]()
+        * [future plans]()
+    * [Resources/money]() 
+    
+    
+   we will die
