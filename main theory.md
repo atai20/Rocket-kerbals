@@ -14,8 +14,14 @@
 * #### 2. Personal war machine
     * [What is the main aim?]() 
     * [Who can help?]()
+    * [Main theory]()
     * [Drawn concept]() 
     * [How not to explode?]() 
+    * [Kinds of rockets]() 
+    * #### hardware and code
+        * [raspberry pi]()
+        * [make (sh)it yourself(level impossible)]()
+        * #### //everything else in other files
     * #### kinds of fuel
         * [methane]()
         * [carbon dioxyde]()
