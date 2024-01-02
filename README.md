@@ -1,16 +1,17 @@
 # Legendrary Kerbals rocket
 * #### 1. Actual rocket for the competition
     * [Theory, aim and prises](theory_aim_prices.md)
-    * [dates, deadlines and achievements log]()
+    * [dates, deadlines and achievements log](dates_deadlines_acheivements.md)
     * #### requirements
-        * [rules]()
-        * [documents]()
-        * [organization part for Abby]()
+        * [rules](rules.md)
+        * [documents](documents, required stuff.md)
+        * [organization part for Abby](for_abby.md)
     * #### resources needed
-        * [parts and costs]()
+        * [parts and costs](parts_costs.md)
     * #### commentaries and thoughts
-        * [personal comments on project, ideas and stuff (everyone adds here anything)]()
-        * [future plans decided by group]()
+        * [personal comments on project, ideas and stuff (everyone adds here anything)](comment_compet.md)
+        * [future plans decided by group](futur_plans_comp.md)
+//add links here\/ later , add whatever you like!
 * #### 2. Personal war machine
     * [What is the main aim?]() 
     * [Who can help?]()
