@@ -1,6 +1,6 @@
 # Legendrary Kerbals rocket
 * #### 1. Actual rocket for the competition
-    * [Theory, aim and prises]()
+    * [Theory, aim and prises](theory_aim_prices.md)
     * [dates, deadlines and achievements log]()
     * #### requirements
         * [rules]()
