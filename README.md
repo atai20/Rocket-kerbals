@@ -4,7 +4,7 @@
     * [dates, deadlines and achievements log](dates_deadlines_acheivements.md)
     * #### requirements
         * [rules](rules.md)
-        * [documents](documents, required stuff.md)
+        * [documents](documents_required_stuff.md)
         * [organization part for Abby](for_abby.md)
     * #### resources needed
         * [parts and costs](parts_costs.md)
