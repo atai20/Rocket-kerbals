@@ -32,4 +32,5 @@
     * [Resources/money]() 
     
     
-   we will die
+ <font color="#e8e8e8"> We will die </font>
+
