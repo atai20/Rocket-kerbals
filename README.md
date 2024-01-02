@@ -11,8 +11,8 @@
     * #### commentaries and thoughts
         * [personal comments on project, ideas and stuff (everyone adds here anything)](comment_compet.md)
         * [future plans decided by group](futur_plans_comp.md)
-//add links here\/ later , add whatever you like!
-* #### 2. Personal war machine
+
+* #### 2. Personal war machine //add links here\/ later , add whatever you like!
     * [What is the main aim?]() 
     * [Who can help?]()
     * [Main theory]()
