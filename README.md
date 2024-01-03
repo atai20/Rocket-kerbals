@@ -15,7 +15,7 @@
 ![Drag Racing](my_im.jpg)
 * #### 2. Personal war machine //add links here\/ later , add whatever you like!
     * [What is the main aim?]() 
-    * [Who can help?]()
+    * [Who can help?](who_help.md)
     * [Main theory]()
     * [Drawn concept]() 
     * [How not to explode?]() 
