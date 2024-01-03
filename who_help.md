@@ -9,4 +9,4 @@
  - [Lead Recovery Engineer](https://www.linkedin.com/in/peter-eusebio-68a80a164/)
  - [Avionics Lead](https://www.linkedin.com/in/cwoodhayes/)
  - [Avionics Lead](https://www.linkedin.com/in/jamie-smith-b24348177/)
-[more info about them](https://www.mathworks.com/company/mathworks-stories/first-student-designed-rocket-reaches-outer-space-USC.html)
+\n[more info about them](https://www.mathworks.com/company/mathworks-stories/first-student-designed-rocket-reaches-outer-space-USC.html)
