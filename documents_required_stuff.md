@@ -7,7 +7,7 @@ Summarization:
  - weight can not be more than 650 grams
  - no less than 650 millimeters (big boy) from highest to lowest point during launch including fins
  - upper tube's diameter should not exceed 57 millimeters, lower should be no less than 63.5 millimeters
- - All tubes must be no less than 6 inches
+ - All tubes must be no less than 150 millimeters
  - All parts of the rocket (other than disposable recovery wadding) must descend tethered together and must use parachute recovery.
  - team's official ARC number should be wriiten on rocket
  - rocket should have decorative parts, otherwise 5 points will be lost
