@@ -13,4 +13,4 @@ Summarization:
  - rocket should have decorative parts, otherwise 5 points will be lost
  - Rockets may not be commercially-made kits designed for this event or kits designed to carry egg payloads with the only modification being the addition of an altimeter compartment. They must have only one stage.
  - Any number of motors may be used, but the motors used must not contain a combined total of more than 80 Newton-seconds of total impulse based on the total impulse ratings in the ARC list and they must be used only for flight propulsion.
- 
+ - Motors must be retained in the rocket during flight and at ejection by a positive mechanical means (clip, hook, screw-on cap, etc.) and not retained simply by friction fit in the motor mounting tube, but they must be removable post-flight. Rockets must not contain any pyrotechnic charges except those provided as part ofthe basic commercially-made rocket motor used for the flight, and these must be used only in the manner prescribed in the instructions for that motor.
