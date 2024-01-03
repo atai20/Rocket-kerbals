@@ -5,3 +5,8 @@
 -[his website](https://bps.space/pages/about)
 
 -[students rocket that passed Karamn's line:](https://www.uscrpl.com/traveler-iv)
+ - [Simulation lead](https://www.linkedin.com/in/adam-aitoumeziane-46916b1b0/)
+ - [Lead Recovery Engineer](https://www.linkedin.com/in/peter-eusebio-68a80a164/)
+ - [Avionics Lead](https://www.linkedin.com/in/cwoodhayes/)
+ - [Avionics Lead](https://www.linkedin.com/in/jamie-smith-b24348177/)
+-[more info about them](https://www.mathworks.com/company/mathworks-stories/first-student-designed-rocket-reaches-outer-space-USC.html)
