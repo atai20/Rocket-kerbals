@@ -1,5 +1,5 @@
 //here will be thoery aim and prices
-
+[little history](https://www.youtube.com/watch?v=lZRsSd0ismU)
 
 * calculations for rocket thrust and velocity (please check this meth)
 
