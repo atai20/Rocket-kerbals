@@ -1,5 +1,7 @@
 //here will be thoery aim and prices
 [little history](https://www.youtube.com/watch?v=lZRsSd0ismU)
+[rate of change of mass](https://www1.grc.nasa.gov/beginners-guide-to-aeronautics/model-rocket-engine-designation/)
+
 
 * calculations for rocket thrust and velocity (please check this meth)
 
