@@ -3,7 +3,7 @@
 * [rate of change of mass](https://www1.grc.nasa.gov/beginners-guide-to-aeronautics/model-rocket-engine-designation/)
 
 
-* calculations for rocket thrust and velocity (please check this meth)
+* calculations for rocket thrust and velocity (please check this [meth](https://www.youtube.com/watch?v=6L3g5LduShM))
 
 We are given M, dm, v, dv, z (rate of fuel expulsion), t
 where dm is mass of fuel, M is mass of rocket
