@@ -31,7 +31,7 @@
     * #### Commentaries and thoughts
         * [personal comments on project, ideas and stuff]()
         * [future plans]()
-    * [Resources/money]() 
+    * [Resources/money](res_mon.md) 
     
     
  <font color="#e8e8e8"> We will die </font>
