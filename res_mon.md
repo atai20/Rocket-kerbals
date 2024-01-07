@@ -1,0 +1,4 @@
+ - [sensors for height](https://www.apogeerockets.com/Electronics-Payloads/Altimeters/Jolly-Logic-AltimeterTwo)
+ - [tutorial of spacex rocket]( https://www.youtube.com/watch?v=xh92YCbRAA0)
+ - [spaceX sensor kit(plan B)](https://bps.space/products/signal-r2 )
+ - 
