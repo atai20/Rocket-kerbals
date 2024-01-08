@@ -6,6 +6,7 @@
  - [SpaceX hydrogen suppliers](https://www.ghi-corp.com/contact)
  - [advices from amateur-professionals](https://www.honkawarocketry.com/amateur-liquid-rocket-handbook)
  - [combustion chamber model with full engine](https://en.wikipedia.org/wiki/Staged_combustion_cycle)
+ - [a really cool book(could not find more for free)](https://books.google.ru/books?id=TKdIbLX51NQC&pg=PA8&source=gbs_toc_r&cad=2#v=onepage&q&f=false)
 
 first article: "All ZEDCs are expected to be fully operational and ready for ground testing with the first fully functional cryogenic hydrogen tank during 2023, and with flight testing starting in 2025." 
 // sorry didn't read this part
