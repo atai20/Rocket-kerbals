@@ -1,5 +1,5 @@
  - [smallest actually used engine for actual rocket](https://www.apolloartifacts.com/2013/11/marquardt-r-4d-apollo-spacecraft-attitude-control-engine.html)
-   force of this thing is 20 times more than model rockets and it uses hydrogen
+   force of this thing is 20 times more than model rockets and it uses hydrogen(you can't buy it anywhere, price I found was 50,000 dollars, now even more)
  - [where to buy](https://www.made-in-china.com/productdirectory.do?subaction=hunt&style=b&mode=and&code=0&comProvince=nolimit&order=0&isOpenCorrection=1&org=top&keyword=&file=&searchType=0&word=liquid+hydrogen&log_from=1#word#)
  - [SpaceX hydrogen suppliers](https://www.ghi-corp.com/contact)
  - [advices from amateur-professionals](https://www.honkawarocketry.com/amateur-liquid-rocket-handbook)
