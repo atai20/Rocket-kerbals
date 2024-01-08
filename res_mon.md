@@ -2,3 +2,4 @@
  - [tutorial of spacex rocket]( https://www.youtube.com/watch?v=xh92YCbRAA0)
  - [spaceX sensor kit(plan B)](https://bps.space/products/signal-r2 )
  - [free metals](https://www.facebook.com/marketplace/category/scrap-metal/)
+ - [relatively cheap aluminum(find better websites)](https://www.ebay.com/itm/313285093800?hash=item48f13f29a8:g:GvIAAOSwasZdeFFx&amdata=enc%3AAQAIAAAA4MlWf5kT82c18Rl%2B%2FUAQYvraegdKJ9mQb0hUAFw8ASFgk1vMVmFl4%2BznYHJZgjq%2FodMmE4H%2Foh%2Frh6wQR56G5uaX%2Fz0c2xiusVOSubrA0IOPK1f05yH43PfuletyymeCsES%2ByQzvXtia2H9%2F8DvCZSXnfUsWJXczzMe4DkWr3fLSLdhgg4xYVBpjcbTVWDGGUOu0jcg%2FleU3ACu57SR50y07mqjZllGm8EAjdVTg1t2HqYnj9r%2FQwCOlAc3qcUDJRWiuLtnvZJI%2BEngtKKI96ZyanVvL%2BBe3%2FfsSkWMCdBp5%7Ctkp%3ABk9SR_rtmOqcYw)
