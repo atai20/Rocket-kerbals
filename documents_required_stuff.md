@@ -1,7 +1,7 @@
 All documents are [here](https://rocketcontest.org/resource/2024-american-rocketry-challenge-rules/)
 
 [Team handbook](https://rocketcontest.org/resource/2024-team-handbook/)
-
+[presentation](https://docs.google.com/presentation/d/1DgrOdpc9NPQEdmIvnikumDYM0KX6Ri7ckzNcZdH0CCM/edit#slide=id.p)
 Summarization:
 
  // do less
