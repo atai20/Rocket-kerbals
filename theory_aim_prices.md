@@ -38,7 +38,7 @@ Therefore, for a rocket in free space:
 ```
 and a rocket in constant gravitational field (with air friction of course)
 ```math
-Mg - Cv = M\frac{d\vec{v}}{dt} - z\frac{dM}{dt}
+Mg + Cv = M\frac{d\vec{v}}{dt} - z\frac{dM}{dt}
 ```
 for simplicity, because I am not sure how to include air friction right now (i mean to solve the equation), I will only include gravitational field:
 dividing by m we have
