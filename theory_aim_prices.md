@@ -64,3 +64,6 @@ air friction:
 ```math
 F_d =\frac{1}{2}\ ∗ p ∗ v_2 ∗ C_d ∗ A
 ```
+So we can assume that we have conical shaped end of rocket, it means according to the table we have Cdrag = 0.75, p = 1.293 kg m−3, A depends on our model, according to current one, it's 78.5 cm^3, and speed of our current engine in maximum state is 219 meters per second, but it's no good for 43-46 seconds (IT'S 46.9 SECONDS BRO), so I changed it a bit, it's really close to requirements but not enough, also if we are going to find "best proportion" I highly doubt we will make it work this way, because of conditions. We have to come up with some system.
+
+Evaluating formula yields: at most 5 newtons, (3-5 around, depending on A, which will change)
