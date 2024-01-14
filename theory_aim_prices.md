@@ -53,3 +53,8 @@ then we multiply everything by dt and integrate
 v_f - v_0 = z\cdot\ln{\frac{m_f}{m_0}} + g(\delta t)
 ```
 of course we can assume initial velocity and initial time to be zero
+
+//please check new formulas!!!
+```math
+Fd = 1 / 2 ∗ p ∗ v 2 ∗ C D ∗ A
+```
