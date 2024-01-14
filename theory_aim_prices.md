@@ -62,5 +62,5 @@ v2 - speed of object relative to fluid (in our case air)
 Cdrag - drag coefficient (depends on shape use [this](https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D1%8D%D1%84%D1%84%D0%B8%D1%86%D0%B8%D0%B5%D0%BD%D1%82_%D1%81%D0%BE%D0%BF%D1%80%D0%BE%D1%82%D0%B8%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F_%D1%84%D0%BE%D1%80%D0%BC%D1%8B) link)
 A - Cross sectional area of an object (says for itself)
 ```math
-F_drag =\frac{1}{2}\ ∗ p ∗ v_2 ∗ Cdrag ∗ A
+F_d =\frac{1}{2}\ ∗ p ∗ v_2 ∗ C_d ∗ A
 ```
