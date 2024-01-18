@@ -2,6 +2,8 @@
 [little history](https://www.youtube.com/watch?v=lZRsSd0ismU)
 * [rate of change of mass](https://www1.grc.nasa.gov/beginners-guide-to-aeronautics/model-rocket-engine-designation/)
 * [our rocket model](first.ork)
+* [magnificent shroket](shroket.ork)
+
 
 
 * calculations for rocket thrust and velocity (please check this [meth](https://www.youtube.com/watch?v=6L3g5LduShM))
