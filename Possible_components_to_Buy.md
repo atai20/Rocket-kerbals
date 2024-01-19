@@ -4,7 +4,7 @@
 # Inner tube(s)
 * NOTE: while this is the closest body tube to our specifications of our shrocket, the measurments are still off.
 * [choice 1](https://www.apogeerockets.com/Building_Supplies/Body_Tube_Couplers/Standard_Couplers/AC-29A_Coupler?cPath=42_44_64&)
-* If we cannot find our desired inner tube that matches our specific values, I think it would be a good idea to make our own, they are relatively cheap and can be easily made
+* If we cannot find our desired inner tube that matches our specific values, I think it would be a good idea to make our own, they are relatively cheap and can be easily made.
 # Fins
 * [choice 1](https://www.apogeerockets.com/Building-Supplies/Rocket-Fins/Clipped-Delta-Plywood-Fins-with-TTW-Tab)
 * [choice 2](https://www.apogeerockets.com/Building-Supplies/Rocket-Fins/Clipped-Delta-Fins-with-Through-the-Wall-Tab)
