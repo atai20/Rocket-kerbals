@@ -1,3 +1,7 @@
+# Body tube:
+* [good one](https://www.apogeerockets.com/Building_Supplies/Body_Tubes/High_Power_Tubes/3-00in_LOC_Body_Tube)
+# Nose cone
+* [another good one](https://www.apogeerockets.com/Building_Supplies/Nose_Cones/High_Power_Nose_Cones/PNC-3-00_75mm_Thick_Wall_Tubes)
 # Parachutes: 
 * [choice 1](https://www.apogeerockets.com/Building-Supplies/Parachutes/Low-Power/ASP-24in-1-4mil-inOver-Easyin-EggLoft-Competition-Parachute-Kit)
 * [choice 2](https://www.apogeerockets.com/Building-Supplies/Parachutes/Up-to-24in/12in-Printed-Nylon-Parachute?cPath=42_309_81&)
