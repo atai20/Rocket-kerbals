@@ -17,3 +17,6 @@
 * [choice 5](https://www.apogeerockets.com/Building-Supplies/Rocket-Fins/Trapezoid-Laser-cut-Fins-set-of-4)
 * [choice 6](https://www.apogeerockets.com/Building-Supplies/Rocket-Fins/Swept-Clipped-Delta-Fins-with-Through-the-Wall-Tab)
 * fin's measurements precieceness is not that important. Its whole purpose is to move down the center of pressure so rocket is in correct direction, about every fin does that, so we are open to a lot of options here.
+
+## Liquid Propellant rocket
+[read this?](https://dsiac.org/articles/high-strength-corrosion-resistant-steel-over-titanium-alloy-for-aircraft-critical-components/)
