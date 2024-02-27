@@ -11,3 +11,8 @@
  - [Avionics Lead](https://www.linkedin.com/in/cwoodhayes/)
  - [Avionics Lead](https://www.linkedin.com/in/jamie-smith-b24348177/)
 /n[more info about them](https://www.mathworks.com/company/mathworks-stories/first-student-designed-rocket-reaches-outer-space-USC.html)
+
+potential fund sources:
+[hertz-foundation](https://www.hertzfoundation.org/about-us/contact-us/)
+[simons-foundations](https://www.simonsfoundation.org/)
+[some guy who is physicist at hertz](https://www.linkedin.com/in/roger-falcone-21940215/)
