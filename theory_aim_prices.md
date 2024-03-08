@@ -3,6 +3,7 @@
 * [rate of change of mass](https://www1.grc.nasa.gov/beginners-guide-to-aeronautics/model-rocket-engine-designation/)
 * [our rocket model](first.ork)
 * [magnificent shroket](shroket.ork)
+* [form of an engine](https://www.youtube.com/watch?v=b9NcdDhhZio)
 
 
 
