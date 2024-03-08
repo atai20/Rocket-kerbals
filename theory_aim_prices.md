@@ -3,6 +3,7 @@
 * [rate of change of mass](https://www1.grc.nasa.gov/beginners-guide-to-aeronautics/model-rocket-engine-designation/)
 * [our rocket model](first.ork)
 * [magnificent shroket](shroket.ork)
+* [combustion chamber](https://www.youtube.com/watch?v=H4YZxb2E5PA)
 * [form of an engine](https://www.youtube.com/watch?v=b9NcdDhhZio)
 * [form of an engine #2](https://www.youtube.com/watch?v=sTZhUrflZF4)
 * [kerosene rocket engines](http://www.astronautix.com/h/h2o2kerosene.html)
