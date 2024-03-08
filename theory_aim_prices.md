@@ -4,6 +4,7 @@
 * [our rocket model](first.ork)
 * [magnificent shroket](shroket.ork)
 * [form of an engine](https://www.youtube.com/watch?v=b9NcdDhhZio)
+* [form of an engine #2](https://www.youtube.com/watch?v=sTZhUrflZF4)
 * [kerosene rocket engines](http://www.astronautix.com/h/h2o2kerosene.html)
 
 
