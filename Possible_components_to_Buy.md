@@ -20,3 +20,4 @@
 
 ## Liquid Propellant rocket
 [read this?](https://dsiac.org/articles/high-strength-corrosion-resistant-steel-over-titanium-alloy-for-aircraft-critical-components/)
+[equations for metal](https://ntrs.nasa.gov/api/citations/19870013373/downloads/19870013373.pdf)
