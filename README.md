@@ -1,4 +1,5 @@
 # Legendrary Kerbals rocket
+![image](https://www1.grc.nasa.gov/beginners-guide-to-aeronautics/model-rocket-engine-designation/)
 * #### 1. Actual rocket for the competition
     * [Theory, aim and prises](theory_aim_prices.md)
     * [dates, deadlines and achievements log](dates_deadlines_acheivements.md)
