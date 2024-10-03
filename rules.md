@@ -7,4 +7,3 @@ mainly you can find them here:
  - [presentation rules](https://rocketcontest.org/presentation-competition/)
 Summarization:
 // add it here
--  
