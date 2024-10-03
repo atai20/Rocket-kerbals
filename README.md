@@ -19,7 +19,7 @@
     * [Very helpful book for calculating stuff](https://cloudflare-ipfs.com/ipfs/bafykbzacecike6aafvfmssy6ppjohgp5qolkioxw5w5l2y6hxnvyf5pw2yk72?filename=Hill%20Peterson%20-%20Mechanics%20and%20thermodynamics%20of%20propulsion%20%281992%29.pdf)
     * [Good summary of smaller rockets. quick read](https://spacha.github.io/How-to-Rocket/)
     * #### material and design of listed:
-        * [HSCR steel v titanium (make comments pls)](https://dsiac.org/articles/high-strength-corrosion-resistant-steel-over-titanium-alloy-for-aircraft-critical-components/)
+        * [HSCR steel v titanium](https://dsiac.org/articles/high-strength-corrosion-resistant-steel-over-titanium-alloy-for-aircraft-critical-components/)
     * #### hardware and code
         * [raspberry pi]()
         * [make (sh)it yourself(level impossible)]()
