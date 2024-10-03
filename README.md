@@ -24,7 +24,6 @@
     * [Good summary of smaller rockets. quick read](https://spacha.github.io/How-to-Rocket/)
     * #### material and design of listed:
         * [HSCR steel v titanium (make comments pls)](https://dsiac.org/articles/high-strength-corrosion-resistant-steel-over-titanium-alloy-for-aircraft-critical-components/)
-        * []
     * #### hardware and code
         * [raspberry pi]()
         * [make (sh)it yourself(level impossible)]()
